@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Carlos Rodríguez
 
-¡Bienvenid@ a mi rincón en GitHub! Soy un apasionado Tecnólogo en Análisis y Desarrollo de Software del SENA 🎓, con una curiosidad insaciable por aprender y construir cosas nuevas. Antes de sumergirme en el mundo del desarrollo, tuve el increíble honor de ser profesor de inglés durante 6 años 👨‍🏫, lo que me brindó una perspectiva única sobre la comunicación y la resolución de problemas.
+¡Bienvenid@ a mi rincón en GitHub! Soy un apasionado Tecnólogo en Análisis y Desarrollo de Software del SENA 🎓, con una curiosidad insaciable por aprender y construir cosas nuevas.
 
 ## 🚀 Mis Habilidades Técnicas
 
