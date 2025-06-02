@@ -29,7 +29,6 @@ Siempre estoy buscando expandir mis conocimientos. Actualmente estoy enfocado en
 
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
-* **LinkedIn:** [Tu Link de LinkedIn Aquí] (¡Altamente recomendado!)
-* **Correo Electrónico:** [Tu Correo Aquí] 📧 (Opcional)
-* **Portafolio Web:** [Tu Portafolio Aquí] (Si tienes uno)
+* **LinkedIn:** [https://www.linkedin.com/in/carlos-andres-rodr%C3%ADguez-ruiz-31b240369/] (LinkedIn)
+
 
